@@ -1,0 +1,23 @@
+{
+  "name": "pathfinders",
+  "version": "1.0.0",
+  "description": "A visual representation of Pathfinding Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariskycode/pathfinders.git"
+  },
+  "keywords": [
+    "pathfinding",
+    "algorithms"
+  ],
+  "author": "Abdul Rahim Shaikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariskycode/pathfinders/issues"
+  },
+  "homepage": "https://github.com/ariskycode/pathfinders#readme"
+}
